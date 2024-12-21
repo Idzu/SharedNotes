@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "32e44bb8dfec8ecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ce41ed6d22e3d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c820fefd26a38253",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Знания/Ежедневник/2024/Июль.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b8c51d7fee5c28b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-07-03.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "181829e0d3a6f22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ea22f3c335a106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e2d43c3c0a2061",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2626a4149aa2c87a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d85995b36820298",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee21ad71c0f8bbc7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "c709c822f7d2e639",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ec890adb99a99c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691374b5f01ecfac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024-07-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b532f0b0850d3583",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024-07-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "be46a96cd94ff58d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "502c8a1def22af22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024-07-03.md"
+              }
+            }
+          },
+          {
+            "id": "fc6c8f25ab588b3b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "b106b1374406d0c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b8c51d7fee5c28b5",
+  "lastOpenFiles": [
+    "Daily/2024-07-02.md",
+    "Daily/2024-07-03.md",
+    "Daily/2024-07-01.md",
+    "Знания/Ежедневник/2024/Июль.md",
+    "Знания/Выполненные цели/Сортировка/Цели на год.md",
+    "Учеба/Колледж/Диплом/Что надо будет сделать.md",
+    "Учеба/Колледж/Диплом/План.md",
+    "Игры/TESO/Билды/Чародей.md",
+    "Знания/Ежедневник/2024/Апрель.md",
+    "Daily/2024-04-14.md",
+    "Игры/DnD/Домашние правила/Напоминалка.md",
+    "Игры/DnD/Домашние правила/Главная.md",
+    "Игры/DnD/Крафт/Окружение.md",
+    "Templates/Daily Template.md",
+    "Daily/Untitled.md",
+    "Daily/~syncthing~2024-07-01.md.tmp",
+    "Знания/IT/Операционки/Linux/Rice/Hypraland.sync-conflict-20240701-102717-G63CSBD.md",
+    "Daily/2024-04-14.sync-conflict-20240701-102723-G63CSBD.md",
+    "Знания/IT/Операционки/Linux/Главная.sync-conflict-20240701-102722-G63CSBD.md",
+    "Знания/IT/Операционки/Linux/~syncthing~Главная.sync-conflict-20240701-102722-G63CSBD.md.tmp",
+    "Daily/~syncthing~2024-04-14.sync-conflict-20240701-102723-G63CSBD.md.tmp",
+    "Знания/IT/Операционки/Linux/Rice/~syncthing~Hypraland.sync-conflict-20240701-102717-G63CSBD.md.tmp",
+    "Игры/DnD/Таблицы",
+    "Игры/DnD/Приключения/Грбница анигиляции/1 акт 2 часть/Untitled",
+    "Знания/IT/Технологии/Фреймворки/Nuxt/Библиотеки/UI",
+    "Знания/IT/Операционки/Windows",
+    "Работа/crypto-crm/Таблица excel (конспект).md",
+    "Работа/crypto-crm",
+    "Знания/IT/Операционки/Linux/Сервер/Настройка.md",
+    "Знания/IT/Операционки/Linux/Главная.md",
+    "Знания/IT/Операционки/Linux/Сервер",
+    "Untitled.canvas",
+    "Учеба/Колледж/Экзамен/Подготовка.md",
+    "Учеба/Колледж/Дизайн/Создание логотипа.md",
+    "Работа/Дипломная работа/Главный функционал/Персонажи/Персонажи.md",
+    "Работа/Дипломная работа/Главный функционал/Персонажи/Вложения.md",
+    "Работа/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
+    "Работа/Дипломная работа/Главный функционал/Трекер инициативы.md",
+    "Cache/То что надо проверить.png",
+    "Cache/Пример-расположения-1.png",
+    "Cache/Полная-информация-о-персонажах.png",
+    "Cache/Пожаловаться.png",
+    "Cache/Модальное-окно-информация-о-персонажах.png",
+    "Cache/Модальное окно пожаловаться.png",
+    "Cache/Краткая-информация-о-персонажах.png",
+    "Cache/Вывод-всех -персонажей.png",
+    "Cache/Виджеты.png",
+    "Cache/Pasted image 20240520180644.png",
+    "Проекты/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
+    "Технологии/Фреймворки/Nuxt/Библиотеки/Testing/Vitest/Тесты/Untitled.canvas"
+  ]
+}

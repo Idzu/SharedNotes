@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "32e44bb8dfec8ecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ce41ed6d22e3d54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c820fefd26a38253",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b8c79850184393cb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "181829e0d3a6f22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ea22f3c335a106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e2d43c3c0a2061",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2626a4149aa2c87a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7d85995b36820298",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee21ad71c0f8bbc7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "42920edb2c54fa10",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "c709c822f7d2e639",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ec890adb99a99c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691374b5f01ecfac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b532f0b0850d3583",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "be46a96cd94ff58d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "502c8a1def22af22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "fc6c8f25ab588b3b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b106b1374406d0c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "53ca754e57131e79",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "42920edb2c54fa10",
+  "lastOpenFiles": [
+    "Работа/Проекты/Рабочие/crypto-crm/Август.md",
+    "Знания/Ежедневник/2024/Июль.md",
+    "Templates/Book Template.md",
+    "Templates/Course Template.md",
+    "Templates/Daily Template.md",
+    "Templates/Default Template.md",
+    "Templates/Planner Template.md",
+    "Templates/Reference Template.md",
+    "Игры/TESO/Билды/Чародей.md",
+    "Работа/Созвоны/Проекты/2024/03.09.2024.md",
+    "Учеба/Колледж/Дизайн/Создание логотипа.md",
+    "Учеба/Колледж/Экзамен/Подготовка.md",
+    "Учеба/Колледж/Диплом/План.md",
+    "Учеба/Колледж/Диплом/Что надо будет сделать.md",
+    "Знания/IT/Заметки DevOps/Kubernetes/Helm.md",
+    "2024-W36.md",
+    "Знания/IT/Заметки DevOps/Kubernetes/Главная.md",
+    "Знания/IT/Заметки DevOps/Главная.md",
+    "Знания/IT/Заметки DevOps/Kubernetes",
+    "Работа/Проекты/Рабочие/RentRooms/Задачи/Август.md",
+    "Знания/IT/Операционки/Linux/Сервер/Настройка.md",
+    "Знания/IT/Заметки DevOps",
+    "Работа/Проекты/Рабочие/RentRooms/Процесс работы/2 неделя (30 августа - 6 сентября).md",
+    "Работа/Проекты/Рабочие/RentRooms/Процесс работы/1 неделя (25-30 августа).md",
+    "Работа/Проекты/Рабочие/RentRooms/Задачи/Сентябрь.md",
+    "Работа/Проекты/Рабочие/RentRooms/Задачи сделанные.md",
+    "Cache/{237DDCC1-8CFF-457C-AED6-B4B08DC5ACD1} 1.png",
+    "Cache/{237DDCC1-8CFF-457C-AED6-B4B08DC5ACD1}.png",
+    "Работа/Проекты/Рабочие/RentRooms/Главная.md",
+    "Daily/2024-09-05.md",
+    "Работа/Проекты/Рабочие/RentRooms/Задачи",
+    "Работа/Созвоны/Проекты/2024",
+    "Работа/Созвоны/Проекты",
+    "Работа/Созвоны",
+    "Работа/Проекты/Рабочие",
+    "Работа/Проекты/Pet",
+    "Работа/Проекты",
+    "Работа/Проекты/Рабочие/RentRooms/Процесс работы",
+    "Untitled.canvas",
+    "Работа/Проекты/Pet/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
+    "Cache/То что надо проверить.png",
+    "Cache/Пример-расположения-1.png",
+    "Cache/Полная-информация-о-персонажах.png",
+    "Cache/Пожаловаться.png",
+    "Cache/Модальное-окно-информация-о-персонажах.png",
+    "Cache/Модальное окно пожаловаться.png",
+    "Cache/Краткая-информация-о-персонажах.png",
+    "Cache/Вывод-всех -персонажей.png",
+    "Проекты/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
+    "Технологии/Фреймворки/Nuxt/Библиотеки/Testing/Vitest/Тесты/Untitled.canvas"
+  ]
+}

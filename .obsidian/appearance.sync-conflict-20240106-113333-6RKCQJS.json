@@ -1,0 +1,13 @@
+{
+  "accentColor": "#70cdff",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "translucency": false,
+  "interfaceFontFamily": "iA Writer Mono S",
+  "monospaceFontFamily": "",
+  "textFontFamily": "iA Writer Mono S",
+  "baseFontSizeAction": true
+}

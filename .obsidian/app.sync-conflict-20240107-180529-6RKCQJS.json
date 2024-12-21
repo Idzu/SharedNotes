@@ -1,0 +1,20 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Проекты",
+  "spellcheck": false,
+  "autoPairBrackets": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckDictionary": [
+    "отладывать",
+    "хп",
+    "Мишы",
+    "голема"
+  ]
+}
