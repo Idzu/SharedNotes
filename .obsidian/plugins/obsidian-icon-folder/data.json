@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LoMeat",
+      "LiBadgeCheck",
       "🍖",
-      "🖥",
-      "ℹ",
-      "🧑‍🏫",
-      "⚔"
+      "LiGithub",
+      "SkPc"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,13 +27,40 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "lucideIconPackType": "native"
   },
   "Работа": "🏢",
   "Игры": "🎮",
   "Игры/DnD": "🎲",
-  "Игры/TESO": "⚔",
   "Учеба": "🧑‍🏫",
-  "Знания": "ℹ",
-  "Знания/IT/Операционки": "🖥"
+  "Финансы": "💰",
+  "Книги": "📚",
+  "Напоминалка": "⏰",
+  "Напоминалка/Дни рождения.md": "🎂",
+  "Готовка": {
+    "iconName": "LoMeat",
+    "iconColor": "#e29250"
+  },
+  "Игры/DnD/Игровые системы/Лит-РПГ/Прокачка": "🦾",
+  "Игры/DnD/Игровые системы/Лит-РПГ/Прокачка/За валюту.md": "💰",
+  "Игры/DnD/Игровые системы/Лит-РПГ/Прокачка/За выполнение требований.md": {
+    "iconName": "LiAward",
+    "iconColor": "#d20f0f"
+  },
+  "Работа/Проекты/Pet/3d-map": "LiMap",
+  "Работа/Проекты/Pet/DnD-navigator": "DeCube",
+  "Работа/Проекты/Pet": "LiHome",
+  "IT/Операционки": "🖥",
+  "IT": {
+    "iconName": "LiGithub",
+    "iconColor": "#428df0"
+  },
+  "Tracker": {
+    "iconName": "LiBadgeCheck",
+    "iconColor": "#ce5f5f"
+  }
 }

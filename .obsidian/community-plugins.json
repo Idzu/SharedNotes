@@ -1,7 +1,6 @@
 [
   "obsidian-collapse-all-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-icon-folder",
   "obsidian-languagetool-plugin",
   "obsidian-outliner",
   "cm-typewriter-scroll-obsidian",
@@ -14,6 +13,14 @@
   "obsidian-linter",
   "time-ruler",
   "dataview",
-  "magic-calendar",
-  "tag-wrangler"
+  "tag-wrangler",
+  "table-editor-obsidian",
+  "webpage-html-export",
+  "obsidian-icon-folder",
+  "obsidian-banners",
+  "obsidian-hover-editor",
+  "obsidian-enhancing-export",
+  "dashboard-navigator",
+  "url-into-selection",
+  "oz-clear-unused-images"
 ]

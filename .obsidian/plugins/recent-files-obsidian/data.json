@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Мясо",
+      "path": "Готовка/Зависимости/Мясо.md"
+    },
+    {
+      "basename": "Полезное",
+      "path": "Готовка/Полезное.md"
+    },
+    {
+      "basename": "Главная",
+      "path": "Готовка/Главная.md"
+    },
+    {
+      "basename": "Обед",
+      "path": "Готовка/Обед.md"
+    },
+    {
+      "basename": "Сладости",
+      "path": "Готовка/Сладости.md"
+    },
+    {
+      "basename": "Nvim",
+      "path": "IT/Курс молодого DevOps/Инструменты и утилиты/Nvim.md"
+    },
+    {
+      "basename": "pm2",
+      "path": "IT/Курс молодого DevOps/Инструменты и утилиты/pm2.md"
+    },
+    {
+      "basename": "Tmux",
+      "path": "IT/Курс молодого DevOps/Инструменты и утилиты/Tmux.md"
+    },
+    {
+      "basename": "NodeJS",
+      "path": "IT/Курс молодого DevOps/Инструменты и утилиты/NodeJS.md"
+    },
+    {
+      "basename": "Сертификаты Lets-encrypt",
+      "path": "IT/Курс молодого DevOps/Безопасность/Сертификаты Lets-encrypt.md"
+    },
+    {
+      "basename": "Домены",
+      "path": "IT/Курс молодого DevOps/nginx/Домены.md"
+    },
+    {
+      "basename": "Главная",
+      "path": "IT/Курс молодого DevOps/nginx/Главная.md"
+    },
+    {
+      "basename": "phpmyadmin",
+      "path": "IT/Курс молодого DevOps/nginx/phpmyadmin.md"
+    },
+    {
+      "basename": "Заметки без ссылок",
+      "path": "Tracker/Заметки без ссылок.md"
+    },
+    {
+      "basename": "Новые заметки за 7 дней",
+      "path": "Tracker/Новые заметки за 7 дней.md"
+    },
+    {
+      "basename": "Не созданные заметки",
+      "path": "Tracker/Не созданные заметки.md"
+    },
+    {
+      "basename": "Измененные заметки за 7 дней",
+      "path": "Tracker/Измененные заметки за 7 дней.md"
+    },
+    {
+      "basename": "Default Template",
+      "path": "Templates/Default Template.md"
+    },
+    {
+      "basename": "Course Template",
+      "path": "Templates/Course Template.md"
+    },
+    {
+      "basename": "Book Template",
+      "path": "Templates/Book Template.md"
     }
   ],
   "omittedPaths": [],

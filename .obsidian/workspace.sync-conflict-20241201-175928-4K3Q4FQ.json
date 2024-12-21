@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "32e44bb8dfec8ecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "260027414fd7289d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f979c6333331b6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Игры/DnD/Игровые системы/Лит-РПГ/Главная.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Главная"
+            }
+          }
+        ]
+      },
+      {
+        "id": "04a6da2a576a1ef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5667df413aef65a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Финансы/Мои траты/2024/Ноябрь.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ноябрь"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "181829e0d3a6f22d",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ea22f3c335a106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e2d43c3c0a2061",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2626a4149aa2c87a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "7d85995b36820298",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Важно",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b157ba4dc509f00c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "c709c822f7d2e639",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ec890adb99a99c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691374b5f01ecfac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Работа/Проекты/Рабочие/RentRooms/Запуск проекта.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Запуск проекта"
+            }
+          },
+          {
+            "id": "b532f0b0850d3583",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Работа/Проекты/Рабочие/RentRooms/Запуск проекта.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Запуск проекта"
+            }
+          },
+          {
+            "id": "be46a96cd94ff58d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "502c8a1def22af22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Игры/DnD/Игровые системы/Лит-РПГ/Главная.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Главная"
+            }
+          },
+          {
+            "id": "fc6c8f25ab588b3b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "b106b1374406d0c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "291c2c51cc1661dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "time-ruler:Open Time Ruler": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "5f979c6333331b6b",
+  "lastOpenFiles": [
+    "Финансы/Мои траты/2024/Ноябрь.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Главная.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Титулы/Титулы.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Профессии/Главная.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Прокачка за деньги/Прокачка за деньги.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Профессии",
+    "Финансы/Мои траты/2024/Отчет за год.md",
+    "Игры/TESO/Билды/Чародей.md",
+    "Финансы/Долги/Главная.md",
+    "Финансы/Долги",
+    "Финансы/Мои траты",
+    "Templates/Finance Template.md",
+    "Финансы/Мои траты/2024/Октябрь.md",
+    "Финансы/Мои траты/2024/Сентябрь.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Предметы/Предметы.md",
+    "Работа/Проекты/Рабочие/RentRooms/Файлы.md",
+    "Работа/Проекты/Рабочие/RentRooms/Запуск проекта.md",
+    "Работа/Проекты/Рабочие/RentRooms/Главная.md",
+    "Работа/Проекты/Рабочие/RentRooms/Настройка сервера.md",
+    "Работа/Проекты/Рабочие/RentRooms/После запуска на сервере.md",
+    "Работа/Проекты/Рабочие/RentRooms/Процесс работы/3 неделя 09.11 - 13.11.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Предметы/Основные проблемы.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Прокачка за деньги",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Титулы",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Предметы/Основные проблемы/Основные проблемы.md",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Предметы/Основные проблемы",
+    "Игры/DnD/Игровые системы/Лит-РПГ/Предметы",
+    "Игры/DnD/Игровые системы/Лит-РПГ",
+    "Игры/DnD/Подготовка к приключению.md",
+    "Игры/DnD/Игровые системы",
+    "Игры/DnD/Untitled.md",
+    "Cache/Pasted image 20241121094657.png",
+    "Работа/Проекты/Pet/DnD-navigator/VDS.md",
+    "Работа/Проекты/Рабочие/КитайWP/Правочки.md",
+    "Cache/{3F2E5A76-F8B8-4800-84FE-DD7ADCD62541}.png",
+    "Cache/{D2EA4AE1-B1C5-4361-9E23-814D4408B57E} 1.png",
+    "Cache/{D2EA4AE1-B1C5-4361-9E23-814D4408B57E}.png",
+    "Cache/{DEAAFAFF-5623-409C-9AFE-A0103062E7E0}.png",
+    "Работа/Проекты/Рабочие/КитайWP/Объединение баз данных.md",
+    "Работа/Проекты/Рабочие/КитайWP/Настройки хостинга.md",
+    "Работа/Проекты/Pet/DnD-navigator/Главный функционал/Canvas/Рандом.canvas",
+    "Работа/Проекты/Рабочие/КитайWP",
+    "Cache/{B933FA4B-AD69-42CC-8549-6130728C283A} 1.png",
+    "Cache/{B933FA4B-AD69-42CC-8549-6130728C283A}.png",
+    "Cache/cf47246f937511efbf44362bf392e912_1.jpg",
+    "Cache/{A08325F5-C1F1-40A0-920A-37C5A7F69D92}.png",
+    "Cache/{DCD1AAC9-7045-499E-9BAC-FA5EDBAA9C22}.png",
+    "Untitled.canvas",
+    "Проекты/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
+    "Технологии/Фреймворки/Nuxt/Библиотеки/Testing/Vitest/Тесты/Untitled.canvas"
+  ]
+}

@@ -4,21 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3ce41ed6d22e3d54",
+        "id": "b7cd3691de1cdaf8",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c79850184393cb",
+            "id": "36cbfb0453f87d37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Готовка/Зависимости/Мясо.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Мясо"
             }
           }
         ]
@@ -62,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Важно",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,17 +75,7 @@
             }
           },
           {
-            "id": "ee21ad71c0f8bbc7",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "42920edb2c54fa10",
+            "id": "13cdfb57f88a85ed",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -97,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 291.5
   },
   "right": {
     "id": "c709c822f7d2e639",
@@ -113,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Работа/Проекты/Рабочие/RentRooms/Запуск проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Запуск проекта"
             }
           },
           {
@@ -131,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Работа/Проекты/Рабочие/RentRooms/Запуск проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Запуск проекта"
             }
           },
           {
@@ -157,9 +149,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Готовка/Зависимости/Мясо.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Мясо"
             }
           },
           {
@@ -168,8 +162,8 @@
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -183,32 +177,21 @@
             }
           },
           {
-            "id": "53ca754e57131e79",
+            "id": "291c2c51cc1661dc",
             "type": "leaf",
             "state": {
-              "type": "reminder-list",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
-          },
-          {
-            "id": "62b1841f769b9bab",
-            "type": "leaf",
-            "state": {
-              "type": "time-ruler-view",
-              "state": {},
-              "icon": "ruler",
-              "title": "Time Ruler"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,58 +204,62 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "time-ruler:Open Time Ruler": false,
-      "magic-calendar:MagicCalendar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "b8c79850184393cb",
+  "active": "36cbfb0453f87d37",
   "lastOpenFiles": [
-    "Cache/{6B05F755-BDED-4576-BAA3-DC06233E39F7}.png",
-    "Untitled.md",
-    "Cache",
-    "Работа/Проекты/Рабочие/crypto-crm/Август.md",
-    "Знания/Ежедневник/2024/Июль.md",
-    "Templates/Book Template.md",
-    "Templates/Course Template.md",
-    "Templates/Daily Template.md",
-    "Templates/Default Template.md",
-    "Templates/Planner Template.md",
-    "Templates/Reference Template.md",
-    "Игры/TESO/Билды/Чародей.md",
-    "Работа/Созвоны/Проекты/2024/03.09.2024.md",
-    "Учеба/Колледж/Дизайн/Создание логотипа.md",
-    "Учеба/Колледж/Экзамен/Подготовка.md",
-    "Учеба/Колледж/Диплом/План.md",
-    "Учеба/Колледж/Диплом/Что надо будет сделать.md",
-    "Знания/IT/Заметки DevOps/Kubernetes/Helm.md",
-    "2024-W36.md",
-    "Знания/IT/Заметки DevOps/Kubernetes/Главная.md",
-    "Знания/IT/Заметки DevOps/Главная.md",
-    "Знания/IT/Заметки DevOps/Kubernetes",
-    "Работа/Проекты/Рабочие/RentRooms/Задачи/Август.md",
-    "Знания/IT/Операционки/Linux/Сервер/Настройка.md",
-    "Знания/IT/Заметки DevOps",
-    "Работа/Проекты/Рабочие/RentRooms/Процесс работы/2 неделя (30 августа - 6 сентября).md",
-    "Работа/Проекты/Рабочие/RentRooms/Процесс работы/1 неделя (25-30 августа).md",
-    "Работа/Проекты/Рабочие/RentRooms/Задачи/Сентябрь.md",
-    "Работа/Проекты/Рабочие/RentRooms/Задачи сделанные.md",
-    "Cache/{237DDCC1-8CFF-457C-AED6-B4B08DC5ACD1} 1.png",
-    "Cache/{237DDCC1-8CFF-457C-AED6-B4B08DC5ACD1}.png",
-    "Работа/Проекты/Рабочие/RentRooms/Задачи",
-    "Работа/Созвоны/Проекты/2024",
-    "Работа/Созвоны/Проекты",
-    "Работа/Созвоны",
-    "Работа/Проекты/Рабочие",
-    "Работа/Проекты/Pet",
-    "Работа/Проекты",
-    "Untitled.canvas",
-    "Работа/Проекты/Pet/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
+    "Готовка/Полезное.md",
+    "Готовка/Зависимости/Мясо.md",
+    "Готовка/Главная.md",
+    "Готовка/Зависимости/Untitled",
+    "Готовка/Зависимости",
+    "Готовка/Обед.md",
+    "Готовка/Сладости.md",
+    "IT/Курс молодого DevOps/Инструменты и утилиты/Nvim.md",
+    "IT/Курс молодого DevOps/Инструменты и утилиты/pm2.md",
+    "IT/Курс молодого DevOps/Инструменты и утилиты/Tmux.md",
+    "IT/Курс молодого DevOps/Инструменты и утилиты/NodeJS.md",
+    "IT/Курс молодого DevOps/Безопасность/Сертификаты Lets-encrypt.md",
+    "IT/Курс молодого DevOps/nginx/Домены.md",
     "Cache/То что надо проверить.png",
     "Cache/Пример-расположения-1.png",
     "Cache/Полная-информация-о-персонажах.png",
     "Cache/Пожаловаться.png",
     "Cache/Модальное-окно-информация-о-персонажах.png",
     "Cache/Модальное окно пожаловаться.png",
+    "Cache/Маркетплейс — Butter - Google Chrome 2024-05-14 16-44-14.mp4",
     "Cache/Краткая-информация-о-персонажах.png",
+    "Cache/Колода вдохновения.pdf",
     "Cache/Вывод-всех -персонажей.png",
+    "Cache/Виджеты.png",
+    "Cache/{F4BBB52E-EABB-4BDD-86B4-FC84C64A7B4A}.png",
+    "IT/Курс молодого DevOps/nginx/Главная.md",
+    "IT/Курс молодого DevOps/nginx/phpmyadmin.md",
+    "Tracker/Заметки без ссылок.md",
+    "Tracker/Новые заметки за 7 дней.md",
+    "Tracker/Не созданные заметки.md",
+    "Tracker/Измененные заметки за 7 дней.md",
+    "Templates/Default Template.md",
+    "Untitled.md",
+    "IT/Общее/vim/Удалить все до курсора.md",
+    "IT/Общее/vim/Удалить слово.md",
+    "IT/Общее/vim/Четыре буквы.md",
+    "IT/Общее/vim/Удалить букву.md",
+    "IT/Общее/vim/Сохранить изменения в файле.md",
+    "IT/Общее/vim/Переход по словам.md",
+    "IT/Общее/vim/Панель для ввода комманд.md",
+    "IT/Общее/vim",
+    "IT/Общее",
+    "IT/Знания/vim",
+    "IT/Знания",
+    "IT/Курс молодого DevOps/Контейнеризация/Docker/Swarm",
+    "IT/Курс молодого DevOps/Контейнеризация/Kubernetes",
+    "Работа/Проекты/Pet/DnD-navigator/Главный функционал/Canvas/Рандом.canvas",
+    "Untitled.canvas",
     "Проекты/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
-    "Технологии/Фреймворки/Nuxt/Библио�
+    "Технологии/Фреймворки/Nuxt/Библиотеки/Testing/Vitest/Тесты/Untitled.canvas"
+  ]
+}

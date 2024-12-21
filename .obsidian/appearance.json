@@ -3,7 +3,7 @@
   "cssTheme": "Material Gruvbox",
   "theme": "obsidian",
   "nativeMenus": false,
-  "baseFontSize": 16,
+  "baseFontSize": 20,
   "showViewHeader": true,
   "translucency": false,
   "interfaceFontFamily": "iA Writer Mono S",
