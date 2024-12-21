@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Готовка/Зависимости/Мясо.md",
+                "file": "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS/Главная.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мясо"
+              "title": "Главная"
             }
           }
         ]
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Готовка/Зависимости/Мясо.md"
+                "file": "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS/Главная.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Мясо"
+              "title": "Outline of Главная"
             }
           },
           {
@@ -211,8 +211,13 @@
   },
   "active": "36cbfb0453f87d37",
   "lastOpenFiles": [
-    "Готовка/Полезное.md",
     "Готовка/Зависимости/Мясо.md",
+    "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS/Главная.md",
+    "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS",
+    "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS.md",
+    "IT/Технологии/Фреймворки/Боты/Telegram",
+    "IT/Технологии/Фреймворки/Боты",
+    "Готовка/Полезное.md",
     "Готовка/Главная.md",
     "Готовка/Зависимости/Untitled",
     "Готовка/Зависимости",
@@ -249,14 +254,9 @@
     "IT/Общее/vim/Четыре буквы.md",
     "IT/Общее/vim/Удалить букву.md",
     "IT/Общее/vim/Сохранить изменения в файле.md",
-    "IT/Общее/vim/Переход по словам.md",
-    "IT/Общее/vim/Панель для ввода комманд.md",
     "IT/Общее/vim",
     "IT/Общее",
     "IT/Знания/vim",
-    "IT/Знания",
-    "IT/Курс молодого DevOps/Контейнеризация/Docker/Swarm",
-    "IT/Курс молодого DevOps/Контейнеризация/Kubernetes",
     "Работа/Проекты/Pet/DnD-navigator/Главный функционал/Canvas/Рандом.canvas",
     "Untitled.canvas",
     "Проекты/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
