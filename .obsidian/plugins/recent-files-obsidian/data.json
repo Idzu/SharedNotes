@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Autodeploy",
+      "path": "IT/Курс молодого DevOps/Автоматизация/Github Actions/Autodeploy.md"
+    },
+    {
+      "basename": "Github actions",
+      "path": "IT/Курс молодого DevOps/Автоматизация/Github actions.md"
+    },
+    {
+      "basename": "NodeJS",
+      "path": "IT/Курс молодого DevOps/Инструменты и утилиты/NodeJS.md"
+    },
+    {
+      "basename": "Подключение по ssh",
+      "path": "IT/Курс молодого DevOps/Основные настройки/Подключение по ssh.md"
+    },
+    {
+      "basename": "ZSH настройка",
+      "path": "IT/Курс молодого DevOps/Основные настройки/ZSH настройка.md"
+    },
+    {
+      "basename": "GIT",
+      "path": "IT/Курс молодого DevOps/Основные настройки/GIT.md"
+    },
+    {
+      "basename": "Установка",
+      "path": "IT/Курс молодого DevOps/Контейнеризация/Docker/Установка.md"
+    },
+    {
+      "basename": "pm2",
+      "path": "IT/Курс молодого DevOps/Инструменты и утилиты/pm2.md"
+    },
+    {
       "basename": "Главная",
       "path": "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS/Главная.md"
     },
@@ -29,16 +61,8 @@
       "path": "IT/Курс молодого DevOps/Инструменты и утилиты/Nvim.md"
     },
     {
-      "basename": "pm2",
-      "path": "IT/Курс молодого DevOps/Инструменты и утилиты/pm2.md"
-    },
-    {
       "basename": "Tmux",
       "path": "IT/Курс молодого DevOps/Инструменты и утилиты/Tmux.md"
-    },
-    {
-      "basename": "NodeJS",
-      "path": "IT/Курс молодого DevOps/Инструменты и утилиты/NodeJS.md"
     },
     {
       "basename": "Сертификаты Lets-encrypt",

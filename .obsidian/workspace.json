@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS/Главная.md",
+                "file": "IT/Курс молодого DevOps/Автоматизация/Github Actions/Autodeploy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Главная"
+              "title": "Autodeploy"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS/Главная.md"
+                "file": "IT/Курс молодого DevOps/Автоматизация/Github Actions/Autodeploy.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Главная"
+              "title": "Outline of Autodeploy"
             }
           },
           {
@@ -210,10 +209,20 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "13cdfb57f88a85ed",
+  "active": "36cbfb0453f87d37",
   "lastOpenFiles": [
-    "Готовка/Зависимости/Мясо.md",
+    "IT/Курс молодого DevOps/Автоматизация/Github actions.md",
+    "IT/Курс молодого DevOps/Автоматизация/Github Actions/Autodeploy.md",
+    "IT/Курс молодого DevOps/Автоматизация/Github Actions",
+    "IT/Курс молодого DevOps/Инструменты и утилиты/NodeJS.md",
+    "IT/Курс молодого DevOps/Автоматизация",
+    "IT/Курс молодого DevOps/Основные настройки/Подключение по ssh.md",
+    "IT/Курс молодого DevOps/Основные настройки/ZSH настройка.md",
+    "IT/Курс молодого DevOps/Основные настройки/GIT.md",
+    "IT/Курс молодого DevOps/Контейнеризация/Docker/Установка.md",
+    "IT/Курс молодого DevOps/Инструменты и утилиты/pm2.md",
     "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS/Главная.md",
+    "Готовка/Зависимости/Мясо.md",
     "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS",
     "IT/Технологии/Фреймворки/Боты/Telegram/GrammyJS.md",
     "IT/Технологии/Фреймворки/Боты/Telegram",
@@ -225,9 +234,7 @@
     "Готовка/Обед.md",
     "Готовка/Сладости.md",
     "IT/Курс молодого DevOps/Инструменты и утилиты/Nvim.md",
-    "IT/Курс молодого DevOps/Инструменты и утилиты/pm2.md",
     "IT/Курс молодого DevOps/Инструменты и утилиты/Tmux.md",
-    "IT/Курс молодого DevOps/Инструменты и утилиты/NodeJS.md",
     "IT/Курс молодого DevOps/Безопасность/Сертификаты Lets-encrypt.md",
     "IT/Курс молодого DevOps/nginx/Домены.md",
     "Cache/То что надо проверить.png",
@@ -249,15 +256,7 @@
     "Tracker/Не созданные заметки.md",
     "Tracker/Измененные заметки за 7 дней.md",
     "Templates/Default Template.md",
-    "Untitled.md",
-    "IT/Общее/vim/Удалить все до курсора.md",
-    "IT/Общее/vim/Удалить слово.md",
-    "IT/Общее/vim/Четыре буквы.md",
-    "IT/Общее/vim/Удалить букву.md",
-    "IT/Общее/vim/Сохранить изменения в файле.md",
     "IT/Общее/vim",
-    "IT/Общее",
-    "IT/Знания/vim",
     "Работа/Проекты/Pet/DnD-navigator/Главный функционал/Canvas/Рандом.canvas",
     "Untitled.canvas",
     "Проекты/Дипломная работа/Главный функционал/Canvas/Рандом.canvas",
