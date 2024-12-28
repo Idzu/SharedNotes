@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,7 +210,7 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "36cbfb0453f87d37",
+  "active": "13cdfb57f88a85ed",
   "lastOpenFiles": [
     "IT/Курс молодого DevOps/Автоматизация/Github actions.md",
     "IT/Курс молодого DevOps/Автоматизация/Github Actions/Autodeploy.md",
