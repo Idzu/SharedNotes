@@ -58,10 +58,11 @@
   "omnisearch:show-modal": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "S"
+      "key": "F"
     }
-  ]
+  ],
+  "global-search:open": []
 }

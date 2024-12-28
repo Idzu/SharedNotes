@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Главная",
+      "path": "IT/Общее/vim/Главная.md"
+    },
+    {
+      "basename": "Выход из vim",
+      "path": "IT/Общее/vim/Выход из vim.md"
+    },
+    {
+      "basename": "Команда отмены",
+      "path": "IT/Общее/vim/Команда отмены.md"
+    },
+    {
+      "basename": "Модификаторы",
+      "path": "IT/Общее/vim/Модификаторы.md"
+    },
+    {
+      "basename": "Начало ввода текста",
+      "path": "IT/Общее/vim/Начало ввода текста.md"
+    },
+    {
+      "basename": "Переход по словам",
+      "path": "IT/Общее/vim/Переход по словам.md"
+    },
+    {
+      "basename": "Удалить букву",
+      "path": "IT/Общее/vim/Удалить букву.md"
+    },
+    {
+      "basename": "Удалить слово",
+      "path": "IT/Общее/vim/Удалить слово.md"
+    },
+    {
+      "basename": "Четыре буквы",
+      "path": "IT/Общее/vim/Четыре буквы.md"
+    },
+    {
+      "basename": "Удалить все до курсора",
+      "path": "IT/Общее/vim/Удалить все до курсора.md"
+    },
+    {
       "basename": "Autodeploy",
       "path": "IT/Курс молодого DevOps/Автоматизация/Github Actions/Autodeploy.md"
     },
