@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Default Template",
+      "path": "Templates/Default Template.md"
+    },
+    {
+      "basename": "Обед",
+      "path": "Готовка/Обед.md"
+    },
+    {
+      "basename": "Главная",
+      "path": "Готовка/Главная.md"
+    },
+    {
+      "basename": "Полезное",
+      "path": "Готовка/Полезное.md"
+    },
+    {
+      "basename": "Сладости",
+      "path": "Готовка/Сладости.md"
+    },
+    {
       "basename": "Главная",
       "path": "IT/Общее/vim/Главная.md"
     },
@@ -11,22 +31,6 @@
     {
       "basename": "Четыре буквы",
       "path": "IT/Общее/vim/Четыре буквы.md"
-    },
-    {
-      "basename": "Главная",
-      "path": "Готовка/Главная.md"
-    },
-    {
-      "basename": "Обед",
-      "path": "Готовка/Обед.md"
-    },
-    {
-      "basename": "Сладости",
-      "path": "Готовка/Сладости.md"
-    },
-    {
-      "basename": "Полезное",
-      "path": "Готовка/Полезное.md"
     },
     {
       "basename": "Мясо",
@@ -139,18 +143,6 @@
     {
       "basename": "Измененные заметки за 7 дней",
       "path": "Tracker/Измененные заметки за 7 дней.md"
-    },
-    {
-      "basename": "Default Template",
-      "path": "Templates/Default Template.md"
-    },
-    {
-      "basename": "Course Template",
-      "path": "Templates/Course Template.md"
-    },
-    {
-      "basename": "Book Template",
-      "path": "Templates/Book Template.md"
     }
   ],
   "omittedPaths": [],

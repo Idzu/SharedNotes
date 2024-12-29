@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "UbVim",
+      "UbVimSvgrepoCom",
+      "UbUbuntuSvgrepoCom",
       "LoMeat",
-      "LiBadgeCheck",
-      "🍖",
-      "LiGithub",
-      "SkPc"
+      "LiBadgeCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,10 @@
   "Tracker": {
     "iconName": "LiBadgeCheck",
     "iconColor": "#ce5f5f"
+  },
+  "IT/Курс молодого DevOps": "UbUbuntuSvgrepoCom",
+  "IT/Общее/vim": {
+    "iconName": "UbVim",
+    "iconColor": "#ae2929"
   }
 }
