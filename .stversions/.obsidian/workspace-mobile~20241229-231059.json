@@ -11,25 +11,11 @@
             "id": "eca93c77e4573497",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Готовка/Обед/Крупы/Гречка/Гречка варенная с томатной пастой в сковороде.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a4d13974b22febb",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,9 +145,8 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6a4d13974b22febb",
+  "active": "bf1893913c26e37c",
   "lastOpenFiles": [
-    "Готовка/Обед/Крупы/Гречка/Гречка варенная с томатной пастой в сковороде.md",
     "Готовка/Обед/Мясо/Untitled.md",
     "Готовка/Обед/Мясо",
     "Напоминалка/Дни рождения.md",
@@ -196,6 +181,7 @@
     "Cache/27d3b30c0507e36dfaf006e4cb564415.jpg",
     "Знания/IT/Заметки DevOps/nginx/Главная.md",
     "Учеба/Университет/Установчная сессия/Собрание.md",
+    "Работа/Проекты/Рабочие/RentRooms/Процесс работы/Показ работы сервера.md",
     "Cache/{A08325F5-C1F1-40A0-920A-37C5A7F69D92}.png",
     "Учеба/Университет/Основы российской гос",
     "Книги/Ходячий замок",
