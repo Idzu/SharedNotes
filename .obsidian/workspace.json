@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,6 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-projects:Open projects": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -209,7 +211,7 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "36cbfb0453f87d37",
+  "active": "13cdfb57f88a85ed",
   "lastOpenFiles": [
     "IT/Общее/vim/Сохранить изменения в файле.md",
     "IT/Общее/vim/Главная.md",
