@@ -23,5 +23,5 @@
   "newLinkFormat": "absolute",
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "vimMode": true
+  "vimMode": false
 }
