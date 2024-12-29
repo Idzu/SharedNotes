@@ -1,6 +1,52 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Готовка/Обед",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 380
+              },
+              "path": {
+                "width": 203,
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a44948d1-9ff3-419f-a18a-dd7906105dab",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "41d863f0-5bd8-4e2d-ba73-50984b36f7f8",
+      "name": "Обед"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
