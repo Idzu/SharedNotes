@@ -136,7 +136,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -283,7 +284,7 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "5644cb88c42cdc7e",
+  "active": "13cdfb57f88a85ed",
   "lastOpenFiles": [
     "Готовка/Зависимости/Мясо.md",
     "Готовка/Обед/Крупы/Гречка/Гречка варенная с томатной пастой в сковороде.md",
