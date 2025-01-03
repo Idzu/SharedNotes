@@ -103,7 +103,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Готовка/Обед/Крупы/Гречка/Гречка варенная с томатной пастой в сковороде.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Готовка/Обед/Крупы/Гречка/Гречка варенная с томатной пастой в сковороде.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,9 +129,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Готовка/Обед/Крупы/Гречка/Гречка варенная с томатной пастой в сковороде.md"
-          }
+          "state": {}
         }
       },
       {
