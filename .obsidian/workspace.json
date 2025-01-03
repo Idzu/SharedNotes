@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Языки/Typescript/Типизация функций.md",
+                "file": "IT/Языки/Typescript/Интерфейсы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Типизация функций"
+              "title": "Интерфейсы"
             }
           }
         ]
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Языки/Typescript/Типизация функций.md"
+                "file": "IT/Языки/Typescript/Интерфейсы.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Типизация функций"
+              "title": "Outline of Интерфейсы"
             }
           },
           {
@@ -233,8 +233,9 @@
   },
   "active": "de849af2a7290eca",
   "lastOpenFiles": [
-    "IT/Языки/Typescript/Типы.md",
     "IT/Языки/Typescript/_Typescript.md",
+    "IT/Языки/Typescript/Интерфейсы.md",
+    "IT/Языки/Typescript/Типы.md",
     "IT/Языки/Typescript/Типизация функций.md",
     "IT/Языки/Typescript/Примеры кода/Стрелочные функции.md",
     "IT/Языки/Typescript/Примеры кода",
@@ -269,7 +270,6 @@
     "IT/Общее/vim/Главная.md",
     "IT/Общее/vim/Сохранить изменения в файле.md",
     "IT/Общее/vim/Выход из vim.md",
-    "IT/Общее/vim/Четыре буквы.md",
     "Cache/То что надо проверить.png",
     "Cache/Пример-расположения-1.png",
     "Cache/Полная-информация-о-персонажах.png",
