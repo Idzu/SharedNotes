@@ -15,8 +15,8 @@
               "state": {
                 "file": "IT/Языки/Typescript/Интерфейсы.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Интерфейсы"
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -84,7 +85,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,7 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Языки/Typescript/Интерфейсы.md"
+                "file": "IT/Языки/Typescript/Интерфейсы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Интерфейсы"
@@ -231,7 +236,7 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "de849af2a7290eca",
+  "active": "13cdfb57f88a85ed",
   "lastOpenFiles": [
     "IT/Языки/Typescript/_Typescript.md",
     "IT/Языки/Typescript/Интерфейсы.md",
