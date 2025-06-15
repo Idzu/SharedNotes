@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Языки/Typescript/Интерфейсы.md",
+                "file": "IT/Курс молодого DevOps/nginx/Главная.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Интерфейсы"
+              "title": "Главная"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Языки/Typescript/Интерфейсы.md",
+                "file": "IT/Курс молодого DevOps/nginx/Главная.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Интерфейсы"
+              "title": "Outline of Главная"
             }
           },
           {
@@ -238,8 +238,8 @@
   },
   "active": "13cdfb57f88a85ed",
   "lastOpenFiles": [
-    "IT/Языки/Typescript/_Typescript.md",
     "IT/Языки/Typescript/Интерфейсы.md",
+    "IT/Языки/Typescript/_Typescript.md",
     "IT/Языки/Typescript/Типы.md",
     "IT/Языки/Typescript/Типизация функций.md",
     "IT/Языки/Typescript/Примеры кода/Стрелочные функции.md",
