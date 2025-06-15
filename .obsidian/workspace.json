@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Курс молодого DevOps/nginx/Главная.md",
-                "mode": "source",
-                "source": false,
+                "file": "Готовка/Обед/Простые блюда/Филе в соево-медовом маринаде.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Главная"
+              "title": "Филе в соево-медовом маринаде"
             }
           }
         ]
@@ -85,8 +85,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Курс молодого DevOps/nginx/Главная.md",
+                "file": "Готовка/Обед/Простые блюда/Филе в соево-медовом маринаде.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Главная"
+              "title": "Outline of Филе в соево-медовом маринаде"
             }
           },
           {
@@ -236,8 +235,13 @@
       "dashboard-navigator:Open dashboard navigator": false
     }
   },
-  "active": "13cdfb57f88a85ed",
+  "active": "de849af2a7290eca",
   "lastOpenFiles": [
+    "Готовка/Обед/Простые блюда/Филе в соево-медовом маринаде.md",
+    "Готовка/Обед/Простые блюда/Мясо тушенное в томатном соусе.md",
+    "Готовка/Зависимости/Томатная паста.md",
+    "Готовка/Зависимости/Мясо.md",
+    "IT/Курс молодого DevOps/nginx/Главная.md",
     "IT/Языки/Typescript/Интерфейсы.md",
     "IT/Языки/Typescript/_Typescript.md",
     "IT/Языки/Typescript/Типы.md",
@@ -247,14 +251,11 @@
     "IT/Языки/Typescript",
     "IT/Языки",
     "Готовка/Обед.md",
-    "Готовка/Обед/Простые блюда/Мясо тушенное в томатном соусе.md",
     "Готовка/Обед/Крупы/Гречка/Гречка варенная с томатной пастой в сковороде.md",
-    "Готовка/Зависимости/Мясо.md",
     "Templates/Food Template.md",
     "Готовка/Обед/Простые блюда",
     "Готовка/Обед/_Список.md",
     "Готовка/Обед/Крупы/_Рецепты_с_гречкой.md",
-    "Готовка/Зависимости/Томатная паста.md",
     "Готовка/Зависимости/Лук и морковь.md",
     "Готовка/Главная.md",
     "Готовка/Зависимости/Специи/Паприка молотая.md",
@@ -273,8 +274,6 @@
     "Templates/Course Template.md",
     "Templates/Book Template.md",
     "IT/Общее/vim/Главная.md",
-    "IT/Общее/vim/Сохранить изменения в файле.md",
-    "IT/Общее/vim/Выход из vim.md",
     "Cache/То что надо проверить.png",
     "Cache/Пример-расположения-1.png",
     "Cache/Полная-информация-о-персонажах.png",
